@@ -41,7 +41,7 @@ After upgrading, delete old `backups/*.tar.gz` from your backup repo — earlier
 ## Payments (manual only)
 * Owner: **@ADITYA_HNU_YAR** · Appeals / help / support: **@Fsh_bots**.
 * Prices are in INR (₹). There is no auto-pay and no auto-approval: users talk to the owner first, pay, send proof, and the owner approves it in the bot.
-* Methods: UPI (`nosignaditya@fam`, QR generated for the plan price), Crypto, Telegram Stars, NFT. Crypto / Stars / NFT details are given by the owner in chat.
+* Methods: UPI (`yourpaymetid@app`, QR generated for the plan price), Crypto, Telegram Stars, NFT. Crypto / Stars / NFT details are given by the owner in chat.
 * UPI QR needs the `qrcode[pil]` package (already in `requirements.txt`). Without it the bot still shows the UPI ID.
 
 ## AI code scanner
