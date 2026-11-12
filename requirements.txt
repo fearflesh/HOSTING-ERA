@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+requests
+cryptography
+flask
+psutil
+Pillow
+qrcode[pil]
+pymongo[srv]
